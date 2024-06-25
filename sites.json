@@ -1,0 +1,24 @@
+{
+  "sites": [
+    {
+      "url": "https://10.168.1.249:8006/",
+      "img": "pves.png",
+      "name": "PVE"
+    },
+    {
+      "url": "http://10.168.1.207/",
+      "img": "truenas.png",
+      "name": "TrueNAS"
+    },
+    {
+      "url": "http://10.168.1.168:9091/",
+      "img": "gitlab.png",
+      "name": "Gitlab"
+    },
+    {
+      "url": "http://10.168.1.1/",
+      "img": "dandelion.png",
+      "name": "蒲公英"
+    }
+  ]
+}
